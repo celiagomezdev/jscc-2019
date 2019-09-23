@@ -40,7 +40,9 @@ On the course we will mainly use the integrated Terminal of our Visual Studio Co
 
 We recommend you to go through [this guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6) to understand how to work with both of them. Is a bit long but very complete, and you will get a good understanding on how to use them from scratch, and be able to use them during the course. 
 
-> :innocent: This is the basic set up you will need for the first lesson. Continue to get the tools for the rest of the course.
+
+:innocent: This is the basic set up you will need for the first lesson. Continue to get the tools for the rest of the course.
+
 
 ## Node.js
 
