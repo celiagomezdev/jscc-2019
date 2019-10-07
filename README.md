@@ -1,12 +1,44 @@
+<<<<<<< HEAD
 # JavaScript Crash Course | Welcome Guide
+||||||| merged common ancestors
+# JavaScript Crash Course :woman-gesturing-ok: Welcome Guide
+=======
+## :construction: Work In Progress :construction: ##
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
 
+<<<<<<< HEAD
 First of all, welcome to the 3d Edition of our Javascript Crash Course! This is going to be a challenging but exciting journey for getting started on the programming world.
+||||||| merged common ancestors
+First of all, welcome to the 3d Edition of our Javascript Crash Course! This is going to be a challenging but exciting journey for getting started on the programming world. 
+=======
+# JavaScript Crash Course | Welcome Guide
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
 
+<<<<<<< HEAD
 On this guide we will go through all the steps and tools you will need to get ready for the classes. Please, make sure that you have all the tools installed and ready to go before starting the course.
+||||||| merged common ancestors
+On this guide we will go through all the steps and tools you will need to get ready for the classes. Please, make sure that you have all the tools installed and ready to go before starting the course! 
+=======
+First of all, welcome to the 3d Edition of our Javascript Crash Course! This is going to be a challenging but exciting journey for getting started on the programming world.
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
 
+<<<<<<< HEAD
+> If it's the first time you hear about these tools, specially reading some of the guides we will share to get started, you might feel a bit overwhelmed sometimes, as some of the concepts you won't understand them or it will be a lot of new information at once. Please bear with us! :bear: Just try to get the main concept, and contact us with any doubts or problems you encounter during the process (later we will explain how to be in touch with us during the course).
+||||||| merged common ancestors
+If it's the first time you hear about these tools, specially reading some of the guides we will share to get started, you might feel a bit overwhelmed sometimes, as some of the concepts you won't understand them or it will be a lot of new information at once. Please bear with us! Just try to get the main concept, and ask us for any doubts or problems you encounter during the process (later we will explain how to be in touch with us during the course).
+=======
+On this guide we will go through all the steps and tools you will need to get ready for the classes. Please, make sure that you have all the tools installed and ready to go before starting the course.
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
+
+<<<<<<< HEAD
+We will provide macOS and Windows tools information on this guide. If you use another systems like Linux, and you don't find the download links or enough information, please get in touch with us.
+||||||| merged common ancestors
+We will provide iOS and Windows tools information on this guide. If you use another systems like Linux, and you don't find the download links or enough information, please get in touch with us.
+=======
 > If it's the first time you hear about these tools, specially reading some of the guides we will share to get started, you might feel a bit overwhelmed sometimes, as some of the concepts you won't understand them or it will be a lot of new information at once. Please bear with us! :bear: Just try to get the main concept, and contact us with any doubts or problems you encounter during the process (later we will explain how to be in touch with us during the course).
 
 We will provide macOS and Windows tools information on this guide. If you use another systems like Linux, and you don't find the download links or enough information, please get in touch with us.
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
 
 ## Chrome
 
@@ -26,11 +58,25 @@ On our `#js-crash-course` channel you will be able to ask questions, get support
 
 ## Terminal
 
+<<<<<<< HEAD
+**Terminal**, also known as command line or console, allow us to accomplish and automate tasks on a computer without the use of a GUI or [graphical user interface](https://www.computerhope.com/jargon/g/gui.htm). Even if many tasks can be done interacting with the GUI (for example deleting or creating folders), there are some actions more recommended and faster to perform through the terminal, specially when working with Git (but we will see this on our next point).
+||||||| merged common ancestors
+Terminal, also known as command line or console, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface. Even if many tasks can be done interacting with the graphical user interface (like deleting or creating folders), there are some actions more recommended and faster to perform through the terminal, specially when working with Git (but we will see this on our next point).
+=======
 **Terminal**, also known as command line or console, allow us to accomplish and automate tasks on a computer without the use of a GUI or [graphical user interface](https://www.computerhope.com/jargon/g/gui.htm). Even if many tasks can be done interacting with the GUI (for example deleting or creating folders), there are some actions more recommended and faster to perform through the terminal, specially when working with Git (but we will see this on our next point).
 
 On the course we will mainly use the [integrated Terminal of our Visual Studio Code](https://code.visualstudio.com/docs/editor/integrated-terminal), but is basically the same than the one you can find on your computer (macOS). We recommend you to have a basic understanding on how it works. You can take a look to this complete and fun-to-read [guide](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a).
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
+
+<<<<<<< HEAD
+On the course we will mainly use the [integrated Terminal of our Visual Studio Code](https://code.visualstudio.com/docs/editor/integrated-terminal), but is basically the same than the one you can find on your computer (macOS). We recommend you to have a basic understanding on how it works. You can take a look to this complete and fun-to-read [guide](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a).
 
 **Windows users**: On the mentioned guide there is a link explaining how you can enable a [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) Terminal (the default macOS and Linux one) on your Windows machine. That won't be necesary as we will mainly use the integrated bash terminal of Visual Studio code, so you can make use of that one and jump directly to learn how to use the different commands. However, if you are used to the Windows console, or you want to learn how to use it, is totally fine. You can check [this guide](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) with useful info and commands.
+||||||| merged common ancestors
+On the course we will mainly use the integrated Terminal of our Visual Studio Code, but it's basically the same one than the Terminal you can find on your computer. We recommend you to have a basic understanding on how it works. You can take a look to this complete and fun-to-read [guide](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a). 
+=======
+**Windows users**: On the mentioned guide there is a link explaining how you can enable a [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) Terminal (the default macOS and Linux one) on your Windows machine. That won't be necesary as we will mainly use the integrated bash terminal of Visual Studio code, so you can make use of that one and jump directly to learn how to use the different commands. However, if you are used to the Windows console, or you want to learn how to use it, is totally fine. You can check [this guide](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) with useful info and commands.
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
 
 ## Git and Github
 
@@ -67,6 +113,7 @@ node -v
 If you receive the version number (e.G: `v10.16.3`), everything is ok.
 
 ## MongoDB and Mongo Hub
+<<<<<<< HEAD
 
 On our 5th. lesson we will learn how to use [MongoDB](https://www.mongodb.com/), an open-source document database. [Here](https://docs.mongodb.com/manual/installation/) you can find the downloading links for every platform.
 
@@ -110,3 +157,35 @@ You will master this skill with time (what to actually type on google to find th
 
 ### And that's it! :tada: Please contact us anytime you have doubts. If you are more than 30 minutes stuck on a problem, is time to ask for help. 
 ### Enjoy the course! :school_satchel: 
+||||||| merged common ancestors
+=======
+
+On our 5th. lesson we will learn how to use [MongoDB](https://www.mongodb.com/), an open-source document database. [Here](https://docs.mongodb.com/manual/installation/) you can find the downloading links for every platform.
+
+To install it using Homebrew (check on the Node.js point how to install it), submit on the terminal the following commands (one after the other):
+```
+brew tap mongodb/brew
+```
+```
+brew install mongodb-community@4.2
+```
+
+We will also use a MongoDB GUI application (an interactive program where we can easily see and manage the items of our database).
+
+They all work very similarly, but for this course we recommend MongoHub (only macOS, [download link](https://mongohub.s3.amazonaws.com/MongoHub.zip)) or Robomongo (both platforms, [download links](https://studio3t.com/download-now/)).
+
+The most important conmmands are `mongod` or `service mongodb start` for connecting to the database, and `brew services stop mongodb` to disconnect from it.
+
+
+## Docker
+
+On our last class we will learn how to deploy our application using [Docker](https://www.docker.com/). Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+[Source](https://opensource.com/resources/what-docker).
+
+On [this site](https://www.docker.com/products/docker-desktop) you can find the downloading links for Mac and Windows and all the steps to follow.
+
+If you don't manage to follow all the steps of that guide, don't worry. We will see it more deeply on our class. You will just need to download and install Docker on your machine, and
+make sure before the class that is running (On Mac it should appear the little whale on the top menu bar, and if you click on it should indicate that is running. On Windows it will appear on the notifications area, bottom-right of the screen).
+
+> And that's it! :tada: Please contact us anytime you have doubts. If you are more than 30 minutes stuck on a problem, is time to ask for help!
+>>>>>>> 8073147fce6e87ee79622ad1a3e4e5d2e3c1b69b
