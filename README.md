@@ -1,6 +1,20 @@
-# JavaScript Crash Course | Welcome Guide
+# JavaScript Crash Course &nbsp;<img src="https://raw.githubusercontent.com/WTMBerlin/WTM-Website/master/img/favicons/favicon-32x32.png" alt="wtm-logo" width="30"/>&nbsp; Welcome Guide
 
-First of all, welcome to the 3d Edition of our Javascript Crash Course! This is going to be a challenging but exciting journey for getting started in the programming world.
+- [Intro](#intro)
+- [Chrome](#chrome)
+- [Slack](#slack)
+- [Visual Studio Code](#visual-studio-code)
+- [Terminal](#terminal)
+- [Git and Github](#git-and-github)
+- [Node.js](#nodejs)
+- [MongoDB and Mongo Hub](#mongodb-and-mongo-hub)
+- [Docker](#docker)
+- [Problem Solving](#problem-solving)
+- [Checklist](#checklist)
+
+## Intro
+
+First of all, welcome to the 3rd Edition of our Javascript Crash Course! This is going to be a challenging but exciting journey for getting started in the programming world.
 
 In this guide we will go through all the steps and tools you will need to get ready for the classes. Please, make sure that you have all the tools installed and ready to go before starting the course.
 
@@ -40,7 +54,7 @@ On the course we will mainly use the [integrated Terminal in Visual Studio Code]
 
 We recommend you to go through [this guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6) to learn how to work with both of them. It is a bit long but very complete, and you will get a good understanding on how to use them from scratch, and be able to use them during the course.
 
-> :innocent: This is the basic set up you will need for the first lesson. Continue to get the tools for the rest of the course.
+#### :innocent: This is the basic set up you will need for the first lesson. Continue to get the tools for the rest of the course.
 
 
 ## Node.js
@@ -102,13 +116,30 @@ make sure before the class that is running (On Mac it should appear the little w
 
 One of the skills a developer has to master, and also one of the most difficult to achieve at the beginning, is to find the correct answer for the problem they are facing. You are following the steps, everything seems to be fine and boom, you are receiving a weird error on the console or on VSCode. You have no idea why this is happening! You tried everything... So frustrating. But actually, this problem is faced for experienced programmers on their daily basis. And the solution is... to [Google](https://www.google.com/) it!
 
-You will master this skill with time (what to actually type on google to find the answer you need), but at first you could try to just copy and paste on the google search the error you are receiving (try to only take the meaningful part of the error, for example: `Uncaught SyntaxError: Unexpected identifier`. You will probably get as first result a link to Stackoverflow.
+You will master this skill with time (what to actually type on google to find the answer you need), but at first you could try to just copy and paste on the google search the error you are receiving (try to only take the meaningful part of the error, for example: `Uncaught SyntaxError: Unexpected identifier`. You will probably get as first result a link to Stack overflow.
 
-[Stackoverflow](https://stackoverflow.com/questions) is a community made by and for developers in which someone asks a question, and other developers answer it. If it's a good answer it gets upvotes, and if it's the answer that solved the problem, the OP (original poster) marks it with a green check. This is very useful for the developer community, because the problem we are currently facing most of the times someone else had it already, therefore here we can find many possible solutions to help with our coding struggles. Take a look [to some of the most entertaining questions](https://tutorialzine.com/2015/12/the-10-most-entertaining-stackoverflow-questions-of-all-time). :smiley:
+[Stack overflow](https://stackoverflow.com/questions) is a community made by and for developers in which someone asks a question, and other developers answer it. If it's a good answer it gets upvotes, and if it's the answer that solved the problem, the OP (original poster) marks it with a green check. This is very useful for the developer community, because the problem we are currently facing most of the times someone else had it already, therefore here we can find many possible solutions to help with our coding struggles. Take a look [to some of the most entertaining questions](https://tutorialzine.com/2015/12/the-10-most-entertaining-stackoverflow-questions-of-all-time). :smiley:
 
 If you are practising at home, and after researching you are more than 20-30 minutes stuck on a problem, is time to ask for help on our channel!
 
 ----------
 
-### And that's it! :tada: Please contact us anytime you have doubts or any step of the guide was unclear or didn't work for you. It will also help us make it better for the following students!
-### Enjoy the course :school_satchel:
+#### And that's it! :tada: Please contact us anytime you have doubts or any step of the guide was unclear or didn't work for you. It will also help us make it better for the following students.
+#### Enjoy the course! :school_satchel:
+
+
+## Checklist
+
+#### Have you everything ready to go? :eyes:
+
+- [x] Read the Welcome Guide
+- [x] Chrome
+- [x] Slack and join #js-crash-course
+- [x] Terminal basic learning
+- [x] Git and Github setup
+- [x] Node.js
+- [x] Mongo Hub and MongoDB
+- [x] Docker
+
+
+
